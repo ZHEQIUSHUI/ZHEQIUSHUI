@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-this is a Deep learning gui train platform that i developmemt in my free time,you can click [here](https://github.com/ZHEQIUSHUI/ScutumDemo) to look it`s feature.
+this is a Deep learning gui train platform name "Scutum",i developmemt it in my free time,you can click [here](https://github.com/ZHEQIUSHUI/ScutumDemo) to look it`s feature.
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
