@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZHEQIUSHUI)]()
 
+
+
+this is a Deep learning gui train platform that i developmemt in my free time,you can click [here](https://github.com/ZHEQIUSHUI/ScutumDemo) to look it`s feature.
+
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZHEQIUSHUI&show_icons=true&repo=Violence-Recognition-Dataset" />
