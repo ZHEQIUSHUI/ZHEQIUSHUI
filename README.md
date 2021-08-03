@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZHEQIUSHUI&show_icons=true)](https://github.com/ZHEQIUSHUI?tab=repositories)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZHEQIUSHUI&show_icons=true&theme=react)](https://github.com/ZHEQIUSHUI?tab=repositories)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZHEQIUSHUI&repo=Violence-Recognition-Dataset&height=200)](https://github.com/ZHEQIUSHUI/Violence-Recognition-Dataset)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZHEQIUSHUI&repo=Violence-Recognition-Dataset&theme=react)](https://github.com/ZHEQIUSHUI/Violence-Recognition-Dataset)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZHEQIUSHUI)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZHEQIUSHUI&layout=compact&theme=react)
 
 
 
